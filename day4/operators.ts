@@ -1,17 +1,17 @@
-let a:number=10,b:number=20;
+// let a:number=10,b:number=20;
 
 // Arithmetic operators
 
-console.log(a+b);
+/* console.log(a+b);
 console.log(a-b);
 console.log(a*b);
 console.log(b/a);
 console.log(a%b);
-console.log(5**2);
+console.log(5**2); */
 
 //Assignment Operators =
 
-a = 10;
+/* a = 10;
 b = 5;
 
 //a += b;        // a = a + b;
@@ -21,7 +21,7 @@ console.log(a += b);     // a = a + b ----> 15
 console.log(a -= b);     // a = a - b ----> 10
 console.log(a *= b);     // a = a * b ----> 50
 console.log(a /= b);     // a = a / b ----> 10
-console.log(a %= b);     // a = a % b ----> 0
+console.log(a %= b);     // a = a % b ----> 0 */
 
 
 
@@ -29,7 +29,7 @@ console.log(a %= b);     // a = a % b ----> 0
 //Returns boolean- true/ false
 // >  <  >=  <=  ==  !=  ===(Strict equality)
 
-console.log("********** Relational Operators **********")
+/* console.log("********** Relational Operators **********")
 a=10;
 b=20
 
@@ -47,7 +47,7 @@ let num1:number=10;    //number type
 let num2:any="10"      //string
 
 console.log(num1==num2);  //true (only compares values)
-console.log(num1===num2); //false(compares the values & type)
+console.log(num1===num2); //false(compares the values & type) */
 
 // Logical Operators && || !
 // returns true/ false (boolean values)
@@ -60,11 +60,11 @@ console.log(num1===num2); //false(compares the values & type)
 //   false   true    false   true    true
 //   false   false   false   false
 
-console.log("********** Logical Operators **********")
+/* console.log("********** Logical Operators **********")
 let b1:boolean=true;
 let b2:boolean=false;
 
 console.log(b1 && b2);   // false
 console.log(b1 || b2);   // true
 console.log(!b1);        // false
-console.log(!b2);        // true
+console.log(!b2);        // true */

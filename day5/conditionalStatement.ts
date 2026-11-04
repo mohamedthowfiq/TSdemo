@@ -10,7 +10,7 @@
 
 //Example 6: The switch statement can also include an expression
 
-let x:number=20, y:number=5;
+/* let x:number=20, y:number=5;
 
 switch(x-y)   // expression
 {
@@ -22,4 +22,4 @@ switch(x-y)   // expression
         break;
 
     default: console.log("Result is not Zero, Five or Ten");
-}
+} */

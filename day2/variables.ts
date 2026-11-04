@@ -13,23 +13,23 @@
     5.Hoisting
  */
 
-// 1.
-//    var - function scope
-//    let and const - block scope
+/* // 1. Scope
+      var - function scope
+      let and const - block scope */
 
-//  2.
-// var and let - Not Mandatory
-// const - Mandatory
+/* //  2. Declaration/value assignment
+    var and let - Not Mandatory
+    const - Mandatory */
 
-//  3.
-// var - Allowed
-// let and const - Not Allowed
+/* //  3. Re-declaration
+    var - Allowed
+    let and const - Not Allowed */
 
-//  4.
-// var and let - Allowed
-// const - Not Allowed
+/* //  4. Re-initialization/ Re-assignment
+    var and let - Allowed
+    const - Not Allowed */
 
-// 5.
-// var - Avoid
-// let -   Changing values
-// const -   Constant values 
+/* // 5. Hoisting
+   var - Avoid
+   let -   Changing values
+   const -   Constant values  */

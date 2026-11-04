@@ -9,15 +9,14 @@ Any,
 Union Type, 
 void
 
-
 2. Non-Primitive Data Types
 Array, 
 Class, 
 Function, 
 Interface, 
 Tuple
-
 */
+
 
 // 1. NUMBER TYPE
 // Represents both integers and floating-point numbers
@@ -35,7 +34,7 @@ console.log(typeof(age))
 console.log(typeof age)
 */
 
-
+// #############################################################################################
  
 // 2. STRING TYPE
 // Represents textual data
@@ -54,9 +53,14 @@ let lastName:string="Kenedy";
 let greeting:string=`Hello,${firstName}, ${lastName}`;  // Hello, John, Kenedy
 console.log(greeting);  */
 
+// #############################################################################################
+
 
 // 3. BOOLEAN TYPE
-// REpresents logical values: true or false
+// Represents logical values: true or false
+
+
+// #############################################################################################
 
 
 // 4. NULL TYPE and UNDEFINED TYPE
@@ -69,6 +73,7 @@ console.log(greeting);  */
 
 // let price:number;
 // console.log(price);  // undefined   
+
 
 
 // 5. ANY TYPE
